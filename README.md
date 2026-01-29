@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Héctor (aka Rotce) 👋
 
-<!--
-**Rotcee/Rotcee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Computer Engineering & AI Student** with a strong focus on **Low-Level Security**, **Reverse Engineering**, and **Binary Exploitation**. I enjoy digging into how systems work at the hardware/assembly level. Sometimes CTF player
 
-Here are some ideas to get you started:
+Currently learning on my own about low-level software exploitation and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 Technical Stack
+* **Languages:** C, C++, x86_64 Assembly, Python.
+* **Reversing:** Ghidra, GDB (GEF/PwnDbg), Binwalk.
+
+#### 🔭 Current Projects
+* **[Interactive MicroCPU](https://github.com/Rotcee/interactive_microCPU):** A C implementation of a CPU simulating the full Fetch-Decode-Execute cycle.
+* **[Bootloader](https://github.com/Rotcee/Bootloader):** A minimalist x86_64 bootloader written in Assembly.
+
