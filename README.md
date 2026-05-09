@@ -1,6 +1,7 @@
-### Hi there, I'm Héctor (aka Rotce) 👋
+Hi! I'm Héctor, also known as Rotce. I'm a 19-year-old independent vulnerability researcher passionate about understanding and exploiting complex low-level systems. Basically, I like pwn.
 
-I am a **Computer Engineering & AI Student** with a strong focus on **Low-Level Security**, **Reverse Engineering**, and **Binary Exploitation**. I enjoy digging into how systems work at the hardware/assembly level and I am an occasional CTF player.
+If you don't find me researching vulnerabilities or at the gym, I'm probably at university, where I'm currently studying a double degree in Artificial Intelligence and Computer Engineering. And if you still can't find me, you can always reach out.
 
-Currently, I am self-studying low-level software exploitation.
+I also have a [blog](https://rotcee.github.io/) where I publish my own research and write about technical concepts I find interesting.
 
+See you around!
